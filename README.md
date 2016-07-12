@@ -1,1 +1,3 @@
-# mirror
+# Mirror
+
+Turn off the monitor
